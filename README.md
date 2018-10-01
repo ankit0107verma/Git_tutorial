@@ -1,2 +1,2 @@
 # Git_tutorial
-This is basic tutorial for beginners for github
+This tutorial familiarizes beginneers with the concept of version control system (mainly GitHub) .
